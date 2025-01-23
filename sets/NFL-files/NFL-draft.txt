@@ -1,0 +1,3079 @@
+﻿[CustomCards]
+	[	{
+			"name": "Lonely Farmstead",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/220_Lonely Farmstead.png"
+			}
+		},
+		{
+			"name": "Pit of Misery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/106_Pit of Misery.png"
+			}
+		},
+		{
+			"name": "Damned Mausoleum",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/87_Damned Mausoleum.png"
+			}
+		},
+		{
+			"name": "Elementalists' Tower",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/207_Elementalists' Tower.png"
+			}
+		},
+		{
+			"name": "The Knight of Spring",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elemental Knight ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/172_The Knight of Spring.png"
+			}
+		},
+		{
+			"name": "Arkelaos, Broken-Souled",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Zombie Wizard ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/77_Arkelaos, Broken-Souled.png"
+			}
+		},
+		{
+			"name": "Farwood Stalker",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/165_Farwood Stalker.png"
+			}
+		},
+		{
+			"name": "Virtue of Vitality",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/193_Virtue of Vitality.png"
+			}
+		},
+		{
+			"name": "Body Snatcher's Burden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/80_Body Snatcher's Burden.png"
+			}
+		},
+		{
+			"name": "Waker of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie Cleric ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/120_Waker of the Dead.png"
+			}
+		},
+		{
+			"name": "Battlescarred Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Warrior ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/79_Battlescarred Revenant.png"
+			}
+		},
+		{
+			"name": "Strip Life",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/116_Strip Life.png"
+			}
+		},
+		{
+			"name": "Saprosia the Unravelling",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie Wizard ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/112_Saprosia the Unravelling.png"
+			}
+		},
+		{
+			"name": "Spreading Sickness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/115_Spreading Sickness.png"
+			}
+		},
+		{
+			"name": "Curse of Rot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/86_Curse of Rot.png"
+			}
+		},
+		{
+			"name": "Rot and Ruin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/110_Rot and Ruin.png"
+			}
+		},
+		{
+			"name": "Ghoulish Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/91_Ghoulish Rebirth.png"
+			}
+		},
+		{
+			"name": "Demon's Supplicant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/88_Demon's Supplicant.png"
+			}
+		},
+		{
+			"name": "Graveborn Muse",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Spirit ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/93_Graveborn Muse.png"
+			}
+		},
+		{
+			"name": "Miseangelos Unbowed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Demon ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/103_Miseangelos Unbowed.png"
+			}
+		},
+		{
+			"name": "Cemetary Scavenging",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/83_Cemetary Scavenging.png"
+			}
+		},
+		{
+			"name": "Unholy Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/119_Unholy Reaper.png"
+			}
+		},
+		{
+			"name": "Repurpose Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/108_Repurpose Soul.png"
+			}
+		},
+		{
+			"name": "Unbridled Nightmare",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nightmare Horse ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/117_Unbridled Nightmare.png"
+			}
+		},
+		{
+			"name": "Miasmic Dreams",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/102_Miasmic Dreams.png"
+			}
+		},
+		{
+			"name": "Grisly Ambush",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/95_Grisly Ambush.png"
+			}
+		},
+		{
+			"name": "Gloom Hound",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Dog ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/92_Gloom Hound.png"
+			}
+		},
+		{
+			"name": "Crimson Creeper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/85_Crimson Creeper.png"
+			}
+		},
+		{
+			"name": "Spiteful Remnant",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shade ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/114_Spiteful Remnant.png"
+			}
+		},
+		{
+			"name": "Corpse Hauler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/84_Corpse Hauler.png"
+			}
+		},
+		{
+			"name": "Carrion Diver",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Bird ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/82_Carrion Diver.png"
+			}
+		},
+		{
+			"name": "Undermire Lich",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/118_Undermire Lich.png"
+			}
+		},
+		{
+			"name": "Horrific Amalgamation",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Zombie Serpent ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/97_Horrific Amalgamation.png"
+			}
+		},
+		{
+			"name": "Uruss, Lord of Beasts",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{G}",
+			"type": "Legendary Creature — Bear God ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/228_Uruss, Lord of Beasts.png"
+			}
+		},
+		{
+			"name": "Blightsower",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{G}",
+			"type": "Creature — Demon ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/203_Blightsower.png"
+			}
+		},
+		{
+			"name": "Spring Clean",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/31_Spring Clean.png"
+			}
+		},
+		{
+			"name": "Annelisse, Wayward Daughter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Annelisse ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/200_Annelisse, Wayward Daughter.png"
+			}
+		},
+		{
+			"name": "Haunted Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/96_Haunted Necromancer.png"
+			}
+		},
+		{
+			"name": "Wisdom of the Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/121_Wisdom of the Grave.png"
+			}
+		},
+		{
+			"name": "Arkelaos's Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/78_Arkelaos's Researcher.png"
+			}
+		},
+		{
+			"name": "Horror of the Pit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/98_Horror of the Pit.png"
+			}
+		},
+		{
+			"name": "Sacrilegous Creation",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Zombie Angel ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/111_Sacrilegous Creation.png"
+			}
+		},
+		{
+			"name": "Necromancer's Pet",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Mutant Horror ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/104_Necromancer's Pet.png"
+			}
+		},
+		{
+			"name": "Drain Essence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/89_Drain Essence.png"
+			}
+		},
+		{
+			"name": "Bladebreaker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{R}",
+			"type": "Creature — Demon ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/202_Bladebreaker.png"
+			}
+		},
+		{
+			"name": "Frontier Smithy",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/213_Frontier Smithy.png"
+			}
+		},
+		{
+			"name": "Gargoyle's Perch",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/214_Gargoyle's Perch.png"
+			}
+		},
+		{
+			"name": "Bustling Port",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/205_Bustling Port.png"
+			}
+		},
+		{
+			"name": "Master Stormcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/223_Master Stormcaller.png"
+			}
+		},
+		{
+			"name": "Angelic Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Angel ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/199_Angelic Guide.png"
+			}
+		},
+		{
+			"name": "Den of Beasts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/206_Den of Beasts.png"
+			}
+		},
+		{
+			"name": "Apprentice Firespinner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/122_Apprentice Firespinner.png"
+			}
+		},
+		{
+			"name": "Arrogant Jouster",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/126_Arrogant Jouster.png"
+			}
+		},
+		{
+			"name": "Cornered Tusker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Boar ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/129_Cornered Tusker.png"
+			}
+		},
+		{
+			"name": "Riled Mob",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Peasant Warrior ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/148_Riled Mob.png"
+			}
+		},
+		{
+			"name": "Arger-Clan Flamemaker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Shaman ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/123_Arger-Clan Flamemaker.png"
+			}
+		},
+		{
+			"name": "Earthquaker Prodigy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/136_Earthquaker Prodigy.png"
+			}
+		},
+		{
+			"name": "Chieftain's Cleaver",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/128_Chieftain's Cleaver.png"
+			}
+		},
+		{
+			"name": "Scrounging Smith",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human  Peasant ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/150_Scrounging Smith.png"
+			}
+		},
+		{
+			"name": "Unsteady Giant",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/154_Unsteady Giant.png"
+			}
+		},
+		{
+			"name": "Vibrant Woods",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/253_Vibrant Woods.png"
+			}
+		},
+		{
+			"name": "Vibrant Peak",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/252_Vibrant Peak.png"
+			}
+		},
+		{
+			"name": "Vibrant Fen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/250_Vibrant Fen.png"
+			}
+		},
+		{
+			"name": "Vibrant Bay",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/249_Vibrant Bay.png"
+			}
+		},
+		{
+			"name": "Vibrant Orchard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/251_Vibrant Orchard.png"
+			}
+		},
+		{
+			"name": "Dance of Swords",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/131_Dance of Swords.png"
+			}
+		},
+		{
+			"name": "Teravolt",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/151_Teravolt.png"
+			}
+		},
+		{
+			"name": "Utter Immolation",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/155_Utter Immolation.png"
+			}
+		},
+		{
+			"name": "Reverberating Research",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/147_Reverberating Research.png"
+			}
+		},
+		{
+			"name": "Rage Unleashed",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/146_Rage Unleashed.png"
+			}
+		},
+		{
+			"name": "Boneshatterer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/127_Boneshatterer.png"
+			}
+		},
+		{
+			"name": "Trade-Route Terror",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/70_Trade-Route Terror.png"
+			}
+		},
+		{
+			"name": "Cirral Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Dragon ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/47_Cirral Dragon.png"
+			}
+		},
+		{
+			"name": "Abbey Aeriekeeper",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/39_Abbey Aeriekeeper.png"
+			}
+		},
+		{
+			"name": "Tidebinder Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/69_Tidebinder Adept.png"
+			}
+		},
+		{
+			"name": "Stallion of the Deep",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Horse ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/67_Stallion of the Deep.png"
+			}
+		},
+		{
+			"name": "Frostcaller",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/55_Frostcaller.png"
+			}
+		},
+		{
+			"name": "Cog Lookout",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/48_Cog Lookout.png"
+			}
+		},
+		{
+			"name": "Zephyr Glider",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/76_Zephyr Glider.png"
+			}
+		},
+		{
+			"name": "Dousing Veil",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/52_Dousing Veil.png"
+			}
+		},
+		{
+			"name": "Survey From Above",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/68_Survey From Above.png"
+			}
+		},
+		{
+			"name": "Farflung Hermit",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/54_Farflung Hermit.png"
+			}
+		},
+		{
+			"name": "Frozen Away",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/56_Frozen Away.png"
+			}
+		},
+		{
+			"name": "Disdainful Stroke",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/51_Disdainful Stroke.png"
+			}
+		},
+		{
+			"name": "Echoing Wave",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/53_Echoing Wave.png"
+			}
+		},
+		{
+			"name": "Silent Study",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/65_Silent Study.png"
+			}
+		},
+		{
+			"name": "Mycetoidal Growth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus Beast ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/176_Mycetoidal Growth.png"
+			}
+		},
+		{
+			"name": "Gruff Farmhand",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/169_Gruff Farmhand.png"
+			}
+		},
+		{
+			"name": "Wolfwife",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Faerie Wolf Druid ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/197_Wolfwife.png"
+			}
+		},
+		{
+			"name": "Antler-Crowned Stag",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elk ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/161_Antler-Crowned Stag.png"
+			}
+		},
+		{
+			"name": "Packless Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/181_Packless Scavenger.png"
+			}
+		},
+		{
+			"name": "Farwood Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/164_Farwood Hunter.png"
+			}
+		},
+		{
+			"name": "Aggressive Python",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Snake ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/160_Aggressive Python.png"
+			}
+		},
+		{
+			"name": "Grizzly Trio",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Bear Beast ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/168_Grizzly Trio.png"
+			}
+		},
+		{
+			"name": "Rampaging Wurm",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/183_Rampaging Wurm.png"
+			}
+		},
+		{
+			"name": "Herald of Spring",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental Wolf ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/171_Herald of Spring.png"
+			}
+		},
+		{
+			"name": "The Land Provides",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/173_The Land Provides.png"
+			}
+		},
+		{
+			"name": "Struggle to Survive",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/189_Struggle to Survive.png"
+			}
+		},
+		{
+			"name": "Song of the Farwood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/187_Song of the Farwood.png"
+			}
+		},
+		{
+			"name": "Rumble of the Woods",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/185_Rumble of the Woods.png"
+			}
+		},
+		{
+			"name": "Rend and Tear",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/184_Rend and Tear.png"
+			}
+		},
+		{
+			"name": "Lauded Bannerman",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/19_Lauded Bannerman.png"
+			}
+		},
+		{
+			"name": "Swordcatcher",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/34_Swordcatcher.png"
+			}
+		},
+		{
+			"name": "Proud Griffin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/28_Proud Griffin.png"
+			}
+		},
+		{
+			"name": "Inspired Effigy",
+			"rarity": "common",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/16_Inspired Effigy.png"
+			}
+		},
+		{
+			"name": "Questing Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/29_Questing Knight.png"
+			}
+		},
+		{
+			"name": "Abbot's Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight Cleric ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/1_Abbot's Champion.png"
+			}
+		},
+		{
+			"name": "Stony Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Gargoyle Angel ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/33_Stony Guardian.png"
+			}
+		},
+		{
+			"name": "Outlands Falconer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/24_Outlands Falconer.png"
+			}
+		},
+		{
+			"name": "Victorious Lancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/36_Victorious Lancer.png"
+			}
+		},
+		{
+			"name": "Healer's Hawk",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/14_Healer's Hawk.png"
+			}
+		},
+		{
+			"name": "Warden of the Blessed",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/38_Warden of the Blessed.png"
+			}
+		},
+		{
+			"name": "Piercing Volley",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/26_Piercing Volley.png"
+			}
+		},
+		{
+			"name": "Hymn of Sanctification",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/15_Hymn of Sanctification.png"
+			}
+		},
+		{
+			"name": "Prayer for Protection",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/27_Prayer for Protection.png"
+			}
+		},
+		{
+			"name": "The Lady's Peace",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/18_The Lady's Peace.png"
+			}
+		},
+		{
+			"name": "Duke Fridemund the Bold",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Noble Knight  ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/7_Duke Fridemund the Bold.png"
+			}
+		},
+		{
+			"name": "Sacred Font",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/30_Sacred Font.png"
+			}
+		},
+		{
+			"name": "Beatrisia, Paragon of Ice",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/45_Beatrisia, Paragon of Ice.png"
+			}
+		},
+		{
+			"name": "Favored Pegasus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pegasus ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/12_Favored Pegasus.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/247_Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Master Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/20_Master Duelist.png"
+			}
+		},
+		{
+			"name": "Liespreader",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/219_Liespreader.png"
+			}
+		},
+		{
+			"name": "Leoholt, Paragon of Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/143_Leoholt, Paragon of Flame.png"
+			}
+		},
+		{
+			"name": "Faithsapper",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/208_Faithsapper.png"
+			}
+		},
+		{
+			"name": "Tourney Judge",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/35_Tourney Judge.png"
+			}
+		},
+		{
+			"name": "Majestic Beast",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/221_Majestic Beast.png"
+			}
+		},
+		{
+			"name": "Watchful Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/230_Watchful Shepherd.png"
+			}
+		},
+		{
+			"name": "Ironclad Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/218_Ironclad Captain.png"
+			}
+		},
+		{
+			"name": "Seek New Horizons",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/225_Seek New Horizons.png"
+			}
+		},
+		{
+			"name": "Acolyte of Ancient Gods",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/198_Acolyte of Ancient Gods.png"
+			}
+		},
+		{
+			"name": "Arkelaos's Spywing",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Insect Construct ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/233_Arkelaos's Spywing.png"
+			}
+		},
+		{
+			"name": "Stonecarved Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/244_Stonecarved Guardian.png"
+			}
+		},
+		{
+			"name": "Forgotten Shrine",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/236_Forgotten Shrine.png"
+			}
+		},
+		{
+			"name": "Wanderer's Boots",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/245_Wanderer's Boots.png"
+			}
+		},
+		{
+			"name": "Meteoric Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/242_Meteoric Axe.png"
+			}
+		},
+		{
+			"name": "Magnificent Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/241_Magnificent Blade.png"
+			}
+		},
+		{
+			"name": "The Daughters of Neuhafen",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble Knight ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/6_The Daughters of Neuhafen.png"
+			}
+		},
+		{
+			"name": "End the World",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/90_End the World.png"
+			}
+		},
+		{
+			"name": "Stand Firm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/32_Stand Firm.png"
+			}
+		},
+		{
+			"name": "Coal-Furnace Miner",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/234_Coal-Furnace Miner.png"
+			}
+		},
+		{
+			"name": "Noble Squire",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/23_Noble Squire.png"
+			}
+		},
+		{
+			"name": "Paladin of our Blessed Lady",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight Cleric ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/25_Paladin of our Blessed Lady.png"
+			}
+		},
+		{
+			"name": "Neuhafen Quartermaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Advisor  ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/22_Neuhafen Quartermaster.png"
+			}
+		},
+		{
+			"name": "Fruiting Maneater",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/166_Fruiting Maneater.png"
+			}
+		},
+		{
+			"name": "Wary Denmother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/195_Wary Denmother.png"
+			}
+		},
+		{
+			"name": "Curious Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/163_Curious Dryad.png"
+			}
+		},
+		{
+			"name": "Oakcrusher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/177_Oakcrusher.png"
+			}
+		},
+		{
+			"name": "Watcher in the Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/196_Watcher in the Woods.png"
+			}
+		},
+		{
+			"name": "Overgrown Tusker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Boar Beast ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/180_Overgrown Tusker.png"
+			}
+		},
+		{
+			"name": "Arger-Clan Warband",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/124_Arger-Clan Warband.png"
+			}
+		},
+		{
+			"name": "Fireborn Viper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Snake ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/137_Fireborn Viper.png"
+			}
+		},
+		{
+			"name": "Journeyman Mentalist",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/141_Journeyman Mentalist.png"
+			}
+		},
+		{
+			"name": "Knight's Vow",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/17_Knight's Vow.png"
+			}
+		},
+		{
+			"name": "Pyromancers' Creation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Elemental Construct ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/145_Pyromancers' Creation.png"
+			}
+		},
+		{
+			"name": "Farmers' Militia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/11_Farmers' Militia.png"
+			}
+		},
+		{
+			"name": "Duke's Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Griffin ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/8_Duke's Griffin.png"
+			}
+		},
+		{
+			"name": "Vicious Lavacat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Cat ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/156_Vicious Lavacat.png"
+			}
+		},
+		{
+			"name": "Gilded Swordmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/139_Gilded Swordmaster.png"
+			}
+		},
+		{
+			"name": "Dulcet Absolution",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/9_Dulcet Absolution.png"
+			}
+		},
+		{
+			"name": "Blessed Bowman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Archer Cleric ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/4_Blessed Bowman.png"
+			}
+		},
+		{
+			"name": "Cry for Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/5_Cry for Reinforcements.png"
+			}
+		},
+		{
+			"name": "Bogwader Zombie",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/81_Bogwader Zombie.png"
+			}
+		},
+		{
+			"name": "Wildland Brook",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/259_Wildland Brook.png"
+			}
+		},
+		{
+			"name": "Mage of the Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/57_Mage of the Depths.png"
+			}
+		},
+		{
+			"name": "Lounging Basilisk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Basilisk ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/175_Lounging Basilisk.png"
+			}
+		},
+		{
+			"name": "Oldbark Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/179_Oldbark Wanderer.png"
+			}
+		},
+		{
+			"name": "Heartbeat of the Wild",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/170_Heartbeat of the Wild.png"
+			}
+		},
+		{
+			"name": "Thunderous Power",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/190_Thunderous Power.png"
+			}
+		},
+		{
+			"name": "Perilous Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/182_Perilous Winds.png"
+			}
+		},
+		{
+			"name": "Uruss's Might",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/192_Uruss's Might.png"
+			}
+		},
+		{
+			"name": "Lavatouched Brand",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/142_Lavatouched Brand.png"
+			}
+		},
+		{
+			"name": "Wildland Copse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/261_Wildland Copse.png"
+			}
+		},
+		{
+			"name": "Wildland Steppe",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/266_Wildland Steppe.png"
+			}
+		},
+		{
+			"name": "Wildland Heath",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/263_Wildland Heath.png"
+			}
+		},
+		{
+			"name": "Wildland Marsh",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/264_Wildland Marsh.png"
+			}
+		},
+		{
+			"name": "Wildland Waterfall",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/268_Wildland Waterfall.png"
+			}
+		},
+		{
+			"name": "Wildland Delta",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/262_Wildland Delta.png"
+			}
+		},
+		{
+			"name": "Wildland Volcano",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/267_Wildland Volcano.png"
+			}
+		},
+		{
+			"name": "Wildland Quagmire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/265_Wildland Quagmire.png"
+			}
+		},
+		{
+			"name": "Wildland Cave",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/260_Wildland Cave.png"
+			}
+		},
+		{
+			"name": "Scavenging Band",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue  ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/149_Scavenging Band.png"
+			}
+		},
+		{
+			"name": "Drums of War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/135_Drums of War.png"
+			}
+		},
+		{
+			"name": "Draconic Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/134_Draconic Rage.png"
+			}
+		},
+		{
+			"name": "Crash of Creativity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/130_Crash of Creativity.png"
+			}
+		},
+		{
+			"name": "Pyrogenesist's Skill",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/144_Pyrogenesist's Skill.png"
+			}
+		},
+		{
+			"name": "Mistral Chaser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/61_Mistral Chaser.png"
+			}
+		},
+		{
+			"name": "Practiced Soothsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/63_Practiced Soothsayer.png"
+			}
+		},
+		{
+			"name": "Windchaser Sailor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/74_Windchaser Sailor.png"
+			}
+		},
+		{
+			"name": "Mana-Gorger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Whale ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/59_Mana-Gorger.png"
+			}
+		},
+		{
+			"name": "Skyrider Brigand",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Bird Pirate ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/66_Skyrider Brigand.png"
+			}
+		},
+		{
+			"name": "Mage's Contempt",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/58_Mage's Contempt.png"
+			}
+		},
+		{
+			"name": "Aether Sweep",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/40_Aether Sweep.png"
+			}
+		},
+		{
+			"name": "Chord of Comprehension",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/46_Chord of Comprehension.png"
+			}
+		},
+		{
+			"name": "Animate Object",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/42_Animate Object.png"
+			}
+		},
+		{
+			"name": "Youthful Melody",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/75_Youthful Melody.png"
+			}
+		},
+		{
+			"name": "Cryomancer's Talent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/49_Cryomancer's Talent.png"
+			}
+		},
+		{
+			"name": "Garruk, Scion of Spring",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Garruk ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/167_Garruk, Scion of Spring.png"
+			}
+		},
+		{
+			"name": "Gaddica, Unsound Shaman",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Gaddica ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/138_Gaddica, Unsound Shaman.png"
+			}
+		},
+		{
+			"name": "Knighted Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Knight ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/238_Knighted Machine.png"
+			}
+		},
+		{
+			"name": "Neuhafen Standard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/243_Neuhafen Standard.png"
+			}
+		},
+		{
+			"name": "Leering Stonework",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Gargoyle ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/240_Leering Stonework.png"
+			}
+		},
+		{
+			"name": "Gravedigger's Shovel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/237_Gravedigger's Shovel.png"
+			}
+		},
+		{
+			"name": "Wandering Automaton",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/246_Wandering Automaton.png"
+			}
+		},
+		{
+			"name": "Season of the Wurm",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/186_Season of the Wurm.png"
+			}
+		},
+		{
+			"name": "Forest_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/258_Forest_NFL.png"
+			}
+		},
+		{
+			"name": "Plains_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/254_Plains_NFL.png"
+			}
+		},
+		{
+			"name": "Island_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/255_Island_NFL.png"
+			}
+		},
+		{
+			"name": "Swamp_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/256_Swamp_NFL.png"
+			}
+		},
+		{
+			"name": "Mountain_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/257_Mountain_NFL.png"
+			}
+		},
+		{
+			"name": "Aria of Fire",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/125_Aria of Fire.png"
+			}
+		},
+		{
+			"name": "Pirate's Magpie",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/62_Pirate's Magpie.png"
+			}
+		},
+		{
+			"name": "Despot of Rouchte Peak",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/133_Despot of Rouchte Peak.png"
+			}
+		},
+		{
+			"name": "Anointed Devotee",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/2_Anointed Devotee.png"
+			}
+		},
+		{
+			"name": "Master of Blades",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/21_Master of Blades.png"
+			}
+		},
+		{
+			"name": "Guardian of the Faithful",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/13_Guardian of the Faithful.png"
+			}
+		},
+		{
+			"name": "Blade of Our Lady's Light",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/3_Blade of Our Lady's Light.png"
+			}
+		},
+		{
+			"name": "Falconer's Spire",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/10_Falconer's Spire.png"
+			}
+		},
+		{
+			"name": "Wurm_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/11_Wurm_NFL.png"
+			}
+		},
+		{
+			"name": "Mentalist's Influence",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/60_Mentalist's Influence.png"
+			}
+		},
+		{
+			"name": "Souls Vengeant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/226_Souls Vengeant.png"
+			}
+		},
+		{
+			"name": "Rattle the Mind",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/64_Rattle the Mind.png"
+			}
+		},
+		{
+			"name": "Kapna Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/99_Kapna Ritualist.png"
+			}
+		},
+		{
+			"name": "Voice of the Farwood",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elk Spirit ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/194_Voice of the Farwood.png"
+			}
+		},
+		{
+			"name": "Saprosia's Abomination",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Zombie Serpent ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/113_Saprosia's Abomination.png"
+			}
+		},
+		{
+			"name": "Budding Seedling",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/162_Budding Seedling.png"
+			}
+		},
+		{
+			"name": "Thundermaw Wyvern",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Drake ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/152_Thundermaw Wyvern.png"
+			}
+		},
+		{
+			"name": "Old Grudge Bearer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Troll ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/178_Old Grudge Bearer.png"
+			}
+		},
+		{
+			"name": "Lonely Specter",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Specter ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/101_Lonely Specter.png"
+			}
+		},
+		{
+			"name": "Lost Temple to Ulvma",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/174_Lost Temple to Ulvma.png"
+			}
+		},
+		{
+			"name": "Speaker of the Farwood",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/188_Speaker of the Farwood.png"
+			}
+		},
+		{
+			"name": "Repurposed Graveyard",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/109_Repurposed Graveyard.png"
+			}
+		},
+		{
+			"name": "Lich's Laboratory",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/100_Lich's Laboratory.png"
+			}
+		},
+		{
+			"name": "Unyielding Prowler",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/191_Unyielding Prowler.png"
+			}
+		},
+		{
+			"name": "Night Falls",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/105_Night Falls.png"
+			}
+		},
+		{
+			"name": "Glory-Seeking Squire",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/140_Glory-Seeking Squire.png"
+			}
+		},
+		{
+			"name": "Offering to the Wild",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/224_Offering to the Wild.png"
+			}
+		},
+		{
+			"name": "Arcanist's Study",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/43_Arcanist's Study.png"
+			}
+		},
+		{
+			"name": "Kapna, Ramshackle Tower",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/248_Kapna, Ramshackle Tower.png"
+			}
+		},
+		{
+			"name": "Wildheart Edge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/159_Wildheart Edge.png"
+			}
+		},
+		{
+			"name": "Tyrant's Roar",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/153_Tyrant's Roar.png"
+			}
+		},
+		{
+			"name": "Holt, Champion of Neuhafen",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/217_Holt, Champion of Neuhafen.png"
+			}
+		},
+		{
+			"name": "Volcanic Workshop",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Outpost ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/158_Volcanic Workshop.png"
+			}
+		},
+		{
+			"name": "Unnatural Storm",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/227_Unnatural Storm.png"
+			}
+		},
+		{
+			"name": "Water-Borne Incanter",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/72_Water-Borne Incanter.png"
+			}
+		},
+		{
+			"name": "Defiant Faerie",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/50_Defiant Faerie.png"
+			}
+		},
+		{
+			"name": "Vereina, the Endless Sea",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}{U}",
+			"type": "Legendary Creature — Serpent God ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/229_Vereina, the Endless Sea.png"
+			}
+		},
+		{
+			"name": "Dashing Champion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/132_Dashing Champion.png"
+			}
+		},
+		{
+			"name": "Festival of Harvest's Dawn",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/212_Festival of Harvest's Dawn.png"
+			}
+		},
+		{
+			"name": "Auspicious Augury",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/44_Auspicious Augury.png"
+			}
+		},
+		{
+			"name": "Waverider Scoundrel",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/73_Waverider Scoundrel.png"
+			}
+		},
+		{
+			"name": "Ancient Chronoserpent",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/41_Ancient Chronoserpent.png"
+			}
+		},
+		{
+			"name": "Feathered Avenger",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Angel ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/211_Feathered Avenger.png"
+			}
+		},
+		{
+			"name": "Wild-Bound Snapper",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Turtle ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/231_Wild-Bound Snapper.png"
+			}
+		},
+		{
+			"name": "Master of Wild Winds",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/222_Master of Wild Winds.png"
+			}
+		},
+		{
+			"name": "Harassing Falcon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/216_Harassing Falcon.png"
+			}
+		},
+		{
+			"name": "Fearsome Bellow",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/210_Fearsome Bellow.png"
+			}
+		},
+		{
+			"name": "Farwood Hedge-Witch",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/209_Farwood Hedge-Witch.png"
+			}
+		},
+		{
+			"name": "Brilliant Thunder",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/204_Brilliant Thunder.png"
+			}
+		},
+		{
+			"name": "Blade of the First Saint",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/201_Blade of the First Saint.png"
+			}
+		},
+		{
+			"name": "Gifts of the Tide",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/215_Gifts of the Tide.png"
+			}
+		},
+		{
+			"name": "Arkelaos's Sparkhunter",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird Construct ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/232_Arkelaos's Sparkhunter.png"
+			}
+		},
+		{
+			"name": "The Lady's Pendant",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/239_The Lady's Pendant.png"
+			}
+		},
+		{
+			"name": "Dragon-Scaled Shield",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/235_Dragon-Scaled Shield.png"
+			}
+		},
+		{
+			"name": "Blade_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/13_Blade_NFL.png"
+			}
+		},
+		{
+			"name": "Ox_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ox ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/1_Ox_NFL.png"
+			}
+		},
+		{
+			"name": "Spirit_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/12_Spirit_NFL.png"
+			}
+		},
+		{
+			"name": "Wolf_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/10_Wolf_NFL.png"
+			}
+		},
+		{
+			"name": "Dragon_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/6_Dragon_NFL.png"
+			}
+		},
+		{
+			"name": "Goblin_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/7_Goblin_NFL.png"
+			}
+		},
+		{
+			"name": "Food_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/14_Food_NFL.png"
+			}
+		},
+		{
+			"name": "Zombie_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/5_Zombie_NFL.png"
+			}
+		},
+		{
+			"name": "Peasant_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Peasant ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/2_Peasant_NFL.png"
+			}
+		},
+		{
+			"name": "Bird_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/4_Bird_NFL.png"
+			}
+		},
+		{
+			"name": "Soldier_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/3_Soldier_NFL.png"
+			}
+		},
+		{
+			"name": "Chimera Beast_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Chimera Beast ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/8_Chimera Beast_NFL.png"
+			}
+		},
+		{
+			"name": "Enchantment_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/9_Enchantment_NFL.png"
+			}
+		},
+		{
+			"name": "Profane Experimentation",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/107_Profane Experimentation.png"
+			}
+		},
+		{
+			"name": "Grim Divinations",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/94_Grim Divinations.png"
+			}
+		},
+		{
+			"name": "Virtue of Fealty",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/37_Virtue of Fealty.png"
+			}
+		},
+		{
+			"name": "Virtue of Bravery",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/157_Virtue of Bravery.png"
+			}
+		},
+		{
+			"name": "Virtue of Patience",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/71_Virtue of Patience.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Virtue of Vitality
+		2 Waker of the Dead
+		2 Saprosia the Unravelling
+		2 Rot and Ruin
+		2 Graveborn Muse
+		2 Herald of Spring
+		2 Duke Fridemund the Bold
+		2 Sacred Font
+		2 Beatrisia, Paragon of Ice
+		2 Leoholt, Paragon of Flame
+		2 Tourney Judge
+		2 Majestic Beast
+		2 The Daughters of Neuhafen
+		2 End the World
+		2 Knight's Vow
+		2 Season of the Wurm
+		2 Aria of Fire
+		2 Pirate's Magpie
+		2 Anointed Devotee
+		2 Master of Blades
+		2 Falconer's Spire
+		2 Mentalist's Influence
+		2 Rattle the Mind
+		2 Kapna Ritualist
+		2 Voice of the Farwood
+		2 Saprosia's Abomination
+		2 Budding Seedling
+		2 Thundermaw Wyvern
+		2 Old Grudge Bearer
+		2 Lonely Specter
+		2 Lost Temple to Ulvma
+		2 Speaker of the Farwood
+		2 Repurposed Graveyard
+		2 Lich's Laboratory
+		2 Unyielding Prowler
+		2 Night Falls
+		2 Glory-Seeking Squire
+		2 Arcanist's Study
+		2 Kapna, Ramshackle Tower
+		2 Wildheart Edge
+		2 Tyrant's Roar
+		2 Holt, Champion of Neuhafen
+		2 Volcanic Workshop
+		2 Water-Borne Incanter
+		2 Defiant Faerie
+		2 Dashing Champion
+		2 Festival of Harvest's Dawn
+		2 Auspicious Augury
+		2 Feathered Avenger
+		2 Wild-Bound Snapper
+		2 Master of Wild Winds
+		2 Harassing Falcon
+		2 Fearsome Bellow
+		2 Farwood Hedge-Witch
+		2 Brilliant Thunder
+		2 Blade of the First Saint
+		2 Gifts of the Tide
+		2 Arkelaos's Sparkhunter
+		2 The Lady's Pendant
+		2 Dragon-Scaled Shield
+		2 Virtue of Fealty
+		2 Virtue of Bravery
+		2 Virtue of Patience
+		1 The Knight of Spring
+		1 Arkelaos, Broken-Souled
+		1 Miseangelos Unbowed
+		1 Uruss, Lord of Beasts
+		1 Blightsower
+		1 Annelisse, Wayward Daughter
+		1 Bladebreaker
+		1 Liespreader
+		1 Faithsapper
+		1 Garruk, Scion of Spring
+		1 Gaddica, Unsound Shaman
+		1 Despot of Rouchte Peak
+		1 Guardian of the Faithful
+		1 Blade of Our Lady's Light
+		1 Souls Vengeant
+		1 Offering to the Wild
+		1 Unnatural Storm
+		1 Vereina, the Endless Sea
+		1 Waverider Scoundrel
+		1 Ancient Chronoserpent
+		[UncommonSlot(3)]
+	9 Lonely Farmstead
+		9 Pit of Misery
+		9 Damned Mausoleum
+		9 Elementalists' Tower
+		9 Body Snatcher's Burden
+		9 Battlescarred Revenant
+		9 Spreading Sickness
+		9 Ghoulish Rebirth
+		9 Unholy Reaper
+		9 Unbridled Nightmare
+		9 Spring Clean
+		9 Haunted Necromancer
+		9 Wisdom of the Grave
+		9 Arkelaos's Researcher
+		9 Horror of the Pit
+		9 Sacrilegous Creation
+		9 Drain Essence
+		9 Frontier Smithy
+		9 Gargoyle's Perch
+		9 Bustling Port
+		9 Master Stormcaller
+		9 Angelic Guide
+		9 Den of Beasts
+		9 Disdainful Stroke
+		9 Favored Pegasus
+		9 Fabled Passage
+		9 Master Duelist
+		9 Watchful Shepherd
+		9 Ironclad Captain
+		9 Seek New Horizons
+		9 Acolyte of Ancient Gods
+		9 Meteoric Axe
+		9 Stand Firm
+		9 Noble Squire
+		9 Paladin of our Blessed Lady
+		9 Neuhafen Quartermaster
+		9 Fruiting Maneater
+		9 Wary Denmother
+		9 Curious Dryad
+		9 Oakcrusher
+		9 Watcher in the Woods
+		9 Overgrown Tusker
+		9 Arger-Clan Warband
+		9 Fireborn Viper
+		9 Journeyman Mentalist
+		9 Pyromancers' Creation
+		9 Farmers' Militia
+		9 Duke's Griffin
+		9 Vicious Lavacat
+		9 Gilded Swordmaster
+		9 Dulcet Absolution
+		9 Blessed Bowman
+		9 Cry for Reinforcements
+		9 Bogwader Zombie
+		9 Mage of the Depths
+		9 Lounging Basilisk
+		9 Oldbark Wanderer
+		9 Heartbeat of the Wild
+		9 Thunderous Power
+		9 Perilous Winds
+		9 Uruss's Might
+		9 Lavatouched Brand
+		9 Scavenging Band
+		9 Drums of War
+		9 Draconic Rage
+		9 Crash of Creativity
+		9 Pyrogenesist's Skill
+		9 Mistral Chaser
+		9 Practiced Soothsayer
+		9 Windchaser Sailor
+		9 Mana-Gorger
+		9 Skyrider Brigand
+		9 Aether Sweep
+		9 Chord of Comprehension
+		9 Animate Object
+		9 Youthful Melody
+		9 Cryomancer's Talent
+		9 Knighted Machine
+		9 Neuhafen Standard
+		9 Leering Stonework
+		9 Gravedigger's Shovel
+		9 Wandering Automaton
+		[CommonSlot(11)]
+	30 Farwood Stalker
+		30 Strip Life
+		30 Curse of Rot
+		30 Demon's Supplicant
+		30 Cemetary Scavenging
+		30 Repurpose Soul
+		30 Miasmic Dreams
+		30 Grisly Ambush
+		30 Gloom Hound
+		30 Crimson Creeper
+		30 Spiteful Remnant
+		30 Corpse Hauler
+		30 Carrion Diver
+		30 Undermire Lich
+		30 Horrific Amalgamation
+		30 Necromancer's Pet
+		30 Apprentice Firespinner
+		30 Arrogant Jouster
+		30 Cornered Tusker
+		30 Riled Mob
+		30 Arger-Clan Flamemaker
+		30 Earthquaker Prodigy
+		30 Chieftain's Cleaver
+		30 Scrounging Smith
+		30 Unsteady Giant
+		30 Vibrant Woods
+		30 Vibrant Peak
+		30 Vibrant Fen
+		30 Vibrant Bay
+		30 Vibrant Orchard
+		30 Dance of Swords
+		30 Teravolt
+		30 Utter Immolation
+		30 Reverberating Research
+		30 Rage Unleashed
+		30 Boneshatterer
+		30 Trade-Route Terror
+		30 Cirral Dragon
+		30 Abbey Aeriekeeper
+		30 Tidebinder Adept
+		30 Stallion of the Deep
+		30 Frostcaller
+		30 Cog Lookout
+		30 Zephyr Glider
+		30 Dousing Veil
+		30 Survey From Above
+		30 Farflung Hermit
+		30 Frozen Away
+		30 Echoing Wave
+		30 Silent Study
+		30 Mycetoidal Growth
+		30 Gruff Farmhand
+		30 Wolfwife
+		30 Antler-Crowned Stag
+		30 Packless Scavenger
+		30 Farwood Hunter
+		30 Aggressive Python
+		30 Grizzly Trio
+		30 Rampaging Wurm
+		30 The Land Provides
+		30 Struggle to Survive
+		30 Song of the Farwood
+		30 Rumble of the Woods
+		30 Rend and Tear
+		30 Lauded Bannerman
+		30 Swordcatcher
+		30 Proud Griffin
+		30 Inspired Effigy
+		30 Questing Knight
+		30 Abbot's Champion
+		30 Stony Guardian
+		30 Outlands Falconer
+		30 Victorious Lancer
+		30 Healer's Hawk
+		30 Warden of the Blessed
+		30 Piercing Volley
+		30 Hymn of Sanctification
+		30 Prayer for Protection
+		30 The Lady's Peace
+		30 Arkelaos's Spywing
+		30 Stonecarved Guardian
+		30 Forgotten Shrine
+		30 Wanderer's Boots
+		30 Magnificent Blade
+		30 Coal-Furnace Miner
+		30 Mage's Contempt
+		30 Profane Experimentation
+		30 Grim Divinations
+		
