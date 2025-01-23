@@ -480,13 +480,13 @@
 			}
 		},
 		{
-			"name": "Master Stormcaller",
+			"name": "Stormcaller Guru",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "223",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/223_Master Stormcaller.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/226_Stormcaller Guru.png"
 			}
 		},
 		{
@@ -1034,9 +1034,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Griffin ",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/28_Proud Griffin.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/27_Proud Griffin.png"
 			}
 		},
 		{
@@ -1054,19 +1054,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/29_Questing Knight.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/28_Questing Knight.png"
 			}
 		},
 		{
-			"name": "Abbot's Champion",
+			"name": "Abbot's Bodyguard",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight Cleric ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/1_Abbot's Champion.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/1_Abbot's Bodyguard.png"
 			}
 		},
 		{
@@ -1084,9 +1084,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/24_Outlands Falconer.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/23_Outlands Falconer.png"
 			}
 		},
 		{
@@ -1124,9 +1124,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/26_Piercing Volley.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/25_Piercing Volley.png"
 			}
 		},
 		{
@@ -1144,9 +1144,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/27_Prayer for Protection.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/26_Prayer for Protection.png"
 			}
 		},
 		{
@@ -1174,9 +1174,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/30_Sacred Font.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/29_Sacred Font.png"
 			}
 		},
 		{
@@ -1210,13 +1210,13 @@
 			}
 		},
 		{
-			"name": "Master Duelist",
+			"name": "Skilled Duelist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "20",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/20_Master Duelist.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/30_Skilled Duelist.png"
 			}
 		},
 		{
@@ -1294,9 +1294,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/225_Seek New Horizons.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/224_Seek New Horizons.png"
 			}
 		},
 		{
@@ -1414,9 +1414,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/23_Noble Squire.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/22_Noble Squire.png"
 			}
 		},
 		{
@@ -1424,9 +1424,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Knight Cleric ",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/25_Paladin of our Blessed Lady.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/24_Paladin of our Blessed Lady.png"
 			}
 		},
 		{
@@ -1434,9 +1434,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Advisor  ",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/22_Neuhafen Quartermaster.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/21_Neuhafen Quartermaster.png"
 			}
 		},
 		{
@@ -2144,9 +2144,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/21_Master of Blades.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/20_Master of Blades.png"
 			}
 		},
 		{
@@ -2204,9 +2204,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Enchantment",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/226_Souls Vengeant.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/225_Souls Vengeant.png"
 			}
 		},
 		{
@@ -2364,9 +2364,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/224_Offering to the Wild.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/223_Offering to the Wild.png"
 			}
 		},
 		{
@@ -2925,13 +2925,13 @@
 		9 Frontier Smithy
 		9 Gargoyle's Perch
 		9 Bustling Port
-		9 Master Stormcaller
+		9 Stormcaller Guru
 		9 Angelic Guide
 		9 Den of Beasts
 		9 Disdainful Stroke
 		9 Favored Pegasus
 		9 Fabled Passage
-		9 Master Duelist
+		9 Skilled Duelist
 		9 Watchful Shepherd
 		9 Ironclad Captain
 		9 Seek New Horizons
@@ -3057,7 +3057,7 @@
 		30 Proud Griffin
 		30 Inspired Effigy
 		30 Questing Knight
-		30 Abbot's Champion
+		30 Abbot's Bodyguard
 		30 Stony Guardian
 		30 Outlands Falconer
 		30 Victorious Lancer
