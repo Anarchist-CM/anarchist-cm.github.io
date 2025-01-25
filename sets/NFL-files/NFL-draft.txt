@@ -1014,9 +1014,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/19_Lauded Bannerman.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/18_Lauded Bannerman.png"
 			}
 		},
 		{
@@ -1034,9 +1034,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Griffin ",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/27_Proud Griffin.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/26_Proud Griffin.png"
 			}
 		},
 		{
@@ -1044,9 +1044,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Artifact Creature — Golem ",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/16_Inspired Effigy.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/15_Inspired Effigy.png"
 			}
 		},
 		{
@@ -1054,9 +1054,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/28_Questing Knight.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/27_Questing Knight.png"
 			}
 		},
 		{
@@ -1084,9 +1084,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/23_Outlands Falconer.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/22_Outlands Falconer.png"
 			}
 		},
 		{
@@ -1100,13 +1100,13 @@
 			}
 		},
 		{
-			"name": "Healer's Hawk",
+			"name": "Spirit of the Innocent",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Bird ",
-			"collector_number": "14",
+			"type": "Creature — Spirit ",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/14_Healer's Hawk.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/30_Spirit of the Innocent.png"
 			}
 		},
 		{
@@ -1124,9 +1124,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/25_Piercing Volley.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/24_Piercing Volley.png"
 			}
 		},
 		{
@@ -1134,9 +1134,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/15_Hymn of Sanctification.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/14_Hymn of Sanctification.png"
 			}
 		},
 		{
@@ -1144,9 +1144,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/26_Prayer for Protection.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/25_Prayer for Protection.png"
 			}
 		},
 		{
@@ -1154,9 +1154,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/18_The Lady's Peace.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/17_The Lady's Peace.png"
 			}
 		},
 		{
@@ -1174,9 +1174,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/29_Sacred Font.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/28_Sacred Font.png"
 			}
 		},
 		{
@@ -1214,9 +1214,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/30_Skilled Duelist.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/29_Skilled Duelist.png"
 			}
 		},
 		{
@@ -1314,9 +1314,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Insect Construct ",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/233_Arkelaos's Spywing.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/232_Arkelaos's Spywing.png"
 			}
 		},
 		{
@@ -1334,9 +1334,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/236_Forgotten Shrine.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/235_Forgotten Shrine.png"
 			}
 		},
 		{
@@ -1354,9 +1354,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/242_Meteoric Axe.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/241_Meteoric Axe.png"
 			}
 		},
 		{
@@ -1364,9 +1364,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/241_Magnificent Blade.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/240_Magnificent Blade.png"
 			}
 		},
 		{
@@ -1404,9 +1404,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/234_Coal-Furnace Miner.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/233_Coal-Furnace Miner.png"
 			}
 		},
 		{
@@ -1414,9 +1414,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/22_Noble Squire.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/21_Noble Squire.png"
 			}
 		},
 		{
@@ -1424,9 +1424,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Knight Cleric ",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/24_Paladin of our Blessed Lady.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/23_Paladin of our Blessed Lady.png"
 			}
 		},
 		{
@@ -1434,9 +1434,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Advisor  ",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/21_Neuhafen Quartermaster.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/20_Neuhafen Quartermaster.png"
 			}
 		},
 		{
@@ -1534,9 +1534,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/17_Knight's Vow.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/16_Knight's Vow.png"
 			}
 		},
 		{
@@ -1610,13 +1610,13 @@
 			}
 		},
 		{
-			"name": "Cry for Reinforcements",
+			"name": "Call for Reinforcements",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/5_Cry for Reinforcements.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/5_Call for Reinforcements.png"
 			}
 		},
 		{
@@ -1994,9 +1994,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct Knight ",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/238_Knighted Machine.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/237_Knighted Machine.png"
 			}
 		},
 		{
@@ -2004,9 +2004,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/243_Neuhafen Standard.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/242_Neuhafen Standard.png"
 			}
 		},
 		{
@@ -2014,9 +2014,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Gargoyle ",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/240_Leering Stonework.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/239_Leering Stonework.png"
 			}
 		},
 		{
@@ -2024,9 +2024,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/237_Gravedigger's Shovel.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/236_Gravedigger's Shovel.png"
 			}
 		},
 		{
@@ -2144,9 +2144,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/20_Master of Blades.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/19_Master of Blades.png"
 			}
 		},
 		{
@@ -2610,13 +2610,13 @@
 			}
 		},
 		{
-			"name": "Arkelaos's Sparkhunter",
+			"name": "Steel Scouthawk",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Bird Construct ",
-			"collector_number": "232",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/232_Arkelaos's Sparkhunter.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/243_Steel Scouthawk.png"
 			}
 		},
 		{
@@ -2624,9 +2624,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/239_The Lady's Pendant.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/238_The Lady's Pendant.png"
 			}
 		},
 		{
@@ -2634,9 +2634,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/235_Dragon-Scaled Shield.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/234_Dragon-Scaled Shield.png"
 			}
 		},
 		{
@@ -2878,7 +2878,7 @@
 		2 Brilliant Thunder
 		2 Blade of the First Saint
 		2 Gifts of the Tide
-		2 Arkelaos's Sparkhunter
+		2 Steel Scouthawk
 		2 The Lady's Pendant
 		2 Dragon-Scaled Shield
 		2 Virtue of Fealty
@@ -2957,7 +2957,7 @@
 		9 Gilded Swordmaster
 		9 Dulcet Absolution
 		9 Blessed Bowman
-		9 Cry for Reinforcements
+		9 Call for Reinforcements
 		9 Bogwader Zombie
 		9 Mage of the Depths
 		9 Lounging Basilisk
@@ -3061,7 +3061,7 @@
 		30 Stony Guardian
 		30 Outlands Falconer
 		30 Victorious Lancer
-		30 Healer's Hawk
+		30 Spirit of the Innocent
 		30 Warden of the Blessed
 		30 Piercing Volley
 		30 Hymn of Sanctification
