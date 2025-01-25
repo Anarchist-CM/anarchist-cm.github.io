@@ -2184,9 +2184,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wurm ",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/11_Wurm_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/12_Wurm_NFL.png"
 			}
 		},
 		{
@@ -2644,9 +2644,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment ",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/13_Blade_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/14_Blade_NFL.png"
 			}
 		},
 		{
@@ -2660,13 +2660,13 @@
 			}
 		},
 		{
-			"name": "Spirit_NFL",
+			"name": "Revenant_NFL",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit ",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/12_Spirit_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/13_Revenant_NFL.png"
 			}
 		},
 		{
@@ -2674,9 +2674,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf ",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/10_Wolf_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/11_Wolf_NFL.png"
 			}
 		},
 		{
@@ -2684,9 +2684,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon ",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/6_Dragon_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/7_Dragon_NFL.png"
 			}
 		},
 		{
@@ -2694,9 +2694,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Goblin ",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/7_Goblin_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/8_Goblin_NFL.png"
 			}
 		},
 		{
@@ -2704,9 +2704,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food ",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/14_Food_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/15_Food_NFL.png"
 			}
 		},
 		{
@@ -2714,9 +2714,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie ",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/5_Zombie_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/6_Zombie_NFL.png"
 			}
 		},
 		{
@@ -2734,9 +2734,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird ",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/4_Bird_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/5_Bird_NFL.png"
 			}
 		},
 		{
@@ -2754,9 +2754,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Chimera Beast ",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/8_Chimera Beast_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/9_Chimera Beast_NFL.png"
 			}
 		},
 		{
@@ -2764,9 +2764,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/9_Enchantment_NFL.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/10_Enchantment_NFL.png"
 			}
 		},
 		{
@@ -2807,6 +2807,16 @@
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/71_Virtue of Patience.png"
+			}
+		},
+		{
+			"name": "Spirit_NFL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Spirit ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/4_Spirit_NFL.png"
 			}
 		},
 		]
