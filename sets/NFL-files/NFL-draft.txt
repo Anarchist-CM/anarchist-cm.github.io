@@ -681,7 +681,7 @@
 		},
 		{
 			"name": "Reverberating Research",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "146",
@@ -724,9 +724,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Elemental Dragon ",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/47_Cirral Dragon.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/46_Cirral Dragon.png"
 			}
 		},
 		{
@@ -764,9 +764,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/55_Frostcaller.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/54_Frostcaller.png"
 			}
 		},
 		{
@@ -774,9 +774,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/48_Cog Lookout.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/47_Cog Lookout.png"
 			}
 		},
 		{
@@ -794,9 +794,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/52_Dousing Veil.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/51_Dousing Veil.png"
 			}
 		},
 		{
@@ -814,9 +814,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Crab ",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/54_Farflung Hermit.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/53_Farflung Hermit.png"
 			}
 		},
 		{
@@ -824,9 +824,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/56_Frozen Away.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/55_Frozen Away.png"
 			}
 		},
 		{
@@ -834,9 +834,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/51_Disdainful Stroke.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/50_Disdainful Stroke.png"
 			}
 		},
 		{
@@ -844,9 +844,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/53_Echoing Wave.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/52_Echoing Wave.png"
 			}
 		},
 		{
@@ -854,9 +854,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/65_Silent Study.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/64_Silent Study.png"
 			}
 		},
 		{
@@ -1184,9 +1184,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/45_Beatrisia, Paragon of Ice.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/44_Beatrisia, Paragon of Ice.png"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 		{
 			"name": "Tourney Judge",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Advisor ",
 			"collector_number": "35",
 			"image_uris": {
@@ -1644,9 +1644,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/57_Mage of the Depths.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/56_Mage of the Depths.png"
 			}
 		},
 		{
@@ -1840,13 +1840,13 @@
 			}
 		},
 		{
-			"name": "Crash of Creativity",
-			"rarity": "uncommon",
+			"name": "Crashing Charge",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/129_Crash of Creativity.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/129_Crashing Charge.png"
 			}
 		},
 		{
@@ -1864,9 +1864,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental ",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/61_Mistral Chaser.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/60_Mistral Chaser.png"
 			}
 		},
 		{
@@ -1874,9 +1874,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/63_Practiced Soothsayer.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/62_Practiced Soothsayer.png"
 			}
 		},
 		{
@@ -1894,9 +1894,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Whale ",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/59_Mana-Gorger.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/58_Mana-Gorger.png"
 			}
 		},
 		{
@@ -1904,9 +1904,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Bird Pirate ",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/66_Skyrider Brigand.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/65_Skyrider Brigand.png"
 			}
 		},
 		{
@@ -1914,9 +1914,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/58_Mage's Contempt.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/57_Mage's Contempt.png"
 			}
 		},
 		{
@@ -1934,19 +1934,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/46_Chord of Comprehension.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/45_Chord of Comprehension.png"
 			}
 		},
 		{
-			"name": "Animate Object",
+			"name": "Soaring Animation",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "42",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/42_Animate Object.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/66_Soaring Animation.png"
 			}
 		},
 		{
@@ -1964,9 +1964,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/49_Cryomancer's Talent.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/48_Cryomancer's Talent.png"
 			}
 		},
 		{
@@ -2114,9 +2114,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/62_Pirate's Magpie.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/61_Pirate's Magpie.png"
 			}
 		},
 		{
@@ -2194,9 +2194,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/60_Mentalist's Influence.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/59_Mentalist's Influence.png"
 			}
 		},
 		{
@@ -2214,9 +2214,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/64_Rattle the Mind.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/63_Rattle the Mind.png"
 			}
 		},
 		{
@@ -2374,9 +2374,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Outpost ",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/43_Arcanist's Study.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/42_Arcanist's Study.png"
 			}
 		},
 		{
@@ -2454,9 +2454,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie ",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/50_Defiant Faerie.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/49_Defiant Faerie.png"
 			}
 		},
 		{
@@ -2494,9 +2494,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/44_Auspicious Augury.png"
+				"en": "https://anarchist-cm.github.io/sets/NFL-files/img/43_Auspicious Augury.png"
 			}
 		},
 		{
@@ -2928,6 +2928,7 @@
 		9 Stormcaller Guru
 		9 Angelic Guide
 		9 Den of Beasts
+		9 Reverberating Research
 		9 Disdainful Stroke
 		9 Favored Pegasus
 		9 Fabled Passage
@@ -2970,7 +2971,6 @@
 		9 Scavenging Band
 		9 Drums of War
 		9 Draconic Rage
-		9 Crash of Creativity
 		9 Pyrogenesist's Skill
 		9 Mistral Chaser
 		9 Practiced Soothsayer
@@ -2979,7 +2979,7 @@
 		9 Skyrider Brigand
 		9 Aether Sweep
 		9 Chord of Comprehension
-		9 Animate Object
+		9 Soaring Animation
 		9 Youthful Melody
 		9 Cryomancer's Talent
 		9 Knighted Machine
@@ -3021,7 +3021,6 @@
 		30 Dance of Swords
 		30 Teravolt
 		30 Utter Immolation
-		30 Reverberating Research
 		30 Rage Unleashed
 		30 Boneshatterer
 		30 Trade-Route Terror
@@ -3073,6 +3072,7 @@
 		30 Wanderer's Boots
 		30 Magnificent Blade
 		30 Coal-Furnace Miner
+		30 Crashing Charge
 		30 Mage's Contempt
 		30 Grim Divinations
 		
